@@ -2,7 +2,6 @@
 
 Welcome to my CS50P (Introduction to Computer Science for Python) journey repository! 🐍
 
-![CS50P](https://media.licdn.com/dms/image/D5612AQGMBU9dZJX5Jg/article-cover_image-shrink_600_2000/0/1679372889835?e=2147483647&v=beta&t=8AFC2-C4Lpql18PKyLRSEbO0GFf2VAI4GMHM_ozLZ4s)
 ![Python](https://www.freecodecamp.org/news/content/images/2023/05/cs50python.png)
 
 ## About
