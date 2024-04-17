@@ -1,4 +1,6 @@
 # Define the main function
+
+# I added this line because i got a merge conflict ok
 def main():
     # Prompt the user for input and strip leading/trailing whitespace
     greeting = input("Enter your greeting: ").strip()
