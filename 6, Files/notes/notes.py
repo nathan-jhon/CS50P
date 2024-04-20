@@ -1,3 +1,4 @@
+''' Intro notes about lists
 names = []
 for i in range(3):
 	name = input("enter: ")
@@ -5,4 +6,5 @@ for i in range(3):
 	
 for i in sorted(names):
 	print(i)
-	
+'''
+
