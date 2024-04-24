@@ -11,4 +11,3 @@ import emoji
 with open("with.txt") as file:
 	for line in sorted(file):  # reverse=True
 		print(emoji.emojize("Hello :waving_hand: ") + line.strip())
-
