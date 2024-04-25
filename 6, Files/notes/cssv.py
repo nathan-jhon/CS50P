@@ -23,9 +23,12 @@ import csv
 students = []
 with open("students.csv") as file:
 	reader = csv.reader(file)
-	for row in reader:
-		students.append({"name": row[0], "home": row[1]})
-for student in sorted(students, ket=lambda student: student['name']):
+	for i in reader:
+		students.append({"name": i[0], "home": i[1]})
+		
+def get_name(student):
+	return student["name"]
+for student in sorted(students, key=get_name):
 	print(f"{student['name']} is from {student['home']}")
 
 
