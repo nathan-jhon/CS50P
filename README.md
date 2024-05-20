@@ -1,4 +1,5 @@
-# CS50P Journey Repository
+# CS50P Journey Repository 
+## Sorry to say this but am on a break so i will update the week 7 and other files sooon Ok
 
 Welcome to my CS50P (Introduction to Computer Science for Python) journey repository! 🐍
 
